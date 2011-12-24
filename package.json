@@ -1,0 +1,16 @@
+{
+  "author": "rosylilly <rosylilly@aduca.org> (http://rosylilly.github.com)",
+  "name": "at-exit",
+  "description": "like ruby #at_exit",
+  "version": "0.0.1",
+  "homepage": "http://github.com/rosylilly/at_exit",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rosylilly/at_exit.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {}
+}
