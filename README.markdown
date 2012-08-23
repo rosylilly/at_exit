@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/rosylilly/at_exit.png)](http://travis-ci.org/rosylilly/at_exit)
 # atExit
 
 like ruby #at\_exit
